@@ -1,1 +1,1 @@
-# Sesmic-dev
+# Seismic-dev
